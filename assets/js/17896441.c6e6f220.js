@@ -1,7 +1,7 @@
 "use strict";
 (self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[7918],{
 
-/***/ 1310:
+/***/ 953:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -65,7 +65,7 @@ function BreadcrumbsItem(_ref2){let{children,active,index,addMicrodata}=_ref2;re
 
 /***/ }),
 
-/***/ 5154:
+/***/ 9945:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -143,9 +143,9 @@ var Translate = __webpack_require__(5999);
  * LICENSE file in the root directory of this source tree.
  */function LastUpdatedAtDate(_ref){let{lastUpdatedAt,formattedLastUpdatedAt}=_ref;return/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.atDate",description:"The words used to describe on which date a page has been last updated",values:{date:/*#__PURE__*/react.createElement("b",null,/*#__PURE__*/react.createElement("time",{dateTime:new Date(lastUpdatedAt*1000).toISOString()},formattedLastUpdatedAt))}},' on {date}');}function LastUpdatedByUser(_ref2){let{lastUpdatedBy}=_ref2;return/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.byUser",description:"The words used to describe by who the page has been last updated",values:{user:/*#__PURE__*/react.createElement("b",null,lastUpdatedBy)}},' by {user}');}function LastUpdated(_ref3){let{lastUpdatedAt,formattedLastUpdatedAt,lastUpdatedBy}=_ref3;return/*#__PURE__*/react.createElement("span",{className:ThemeClassNames/* ThemeClassNames.common.lastUpdated */.k.common.lastUpdated},/*#__PURE__*/react.createElement(Translate/* default */.Z,{id:"theme.lastUpdated.lastUpdatedAtBy",description:"The sentence used to display when a page has been last updated, and by who",values:{atDate:lastUpdatedAt&&formattedLastUpdatedAt?/*#__PURE__*/react.createElement(LastUpdatedAtDate,{lastUpdatedAt:lastUpdatedAt,formattedLastUpdatedAt:formattedLastUpdatedAt}):'',byUser:lastUpdatedBy?/*#__PURE__*/react.createElement(LastUpdatedByUser,{lastUpdatedBy:lastUpdatedBy}):''}},'Last updated{atDate}{byUser}'), false&&/*#__PURE__*/0);}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js + 2 modules
-var EditThisPage = __webpack_require__(4881);
+var EditThisPage = __webpack_require__(2760);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/index.js + 1 modules
-var TagsListInline = __webpack_require__(1526);
+var TagsListInline = __webpack_require__(4049);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Footer/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const styles_module = ({"lastUpdated":"lastUpdated_vwxv"});
@@ -193,7 +193,7 @@ var esm_extends = __webpack_require__(7462);
  * LICENSE file in the root directory of this source tree.
  */function DocItemTOCMobile(){const{toc,frontMatter}=useDoc();return/*#__PURE__*/react.createElement(TOCCollapsible,{toc:toc,minHeadingLevel:frontMatter.toc_min_heading_level,maxHeadingLevel:frontMatter.toc_max_heading_level,className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames.docs.docTocMobile */.k.docs.docTocMobile,Mobile_styles_module.tocMobile)});}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TOC/index.js + 1 modules
-var TOC = __webpack_require__(9407);
+var TOC = __webpack_require__(4151);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/TOC/Desktop/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -202,9 +202,9 @@ var TOC = __webpack_require__(9407);
  * LICENSE file in the root directory of this source tree.
  */function DocItemTOCDesktop(){const{toc,frontMatter}=useDoc();return/*#__PURE__*/react.createElement(TOC/* default */.Z,{toc:toc,minHeadingLevel:frontMatter.toc_min_heading_level,maxHeadingLevel:frontMatter.toc_max_heading_level,className:ThemeClassNames/* ThemeClassNames.docs.docTocDesktop */.k.docs.docTocDesktop});}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Heading/index.js + 1 modules
-var Heading = __webpack_require__(2503);
+var Heading = __webpack_require__(1498);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/MDXContent/index.js + 39 modules
-var MDXContent = __webpack_require__(1506);
+var MDXContent = __webpack_require__(7126);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Content/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -222,7 +222,7 @@ var MDXContent = __webpack_require__(1506);
  - the markdown content does not already contain a top-level h1 heading
 */function useSyntheticTitle(){const{metadata,frontMatter,contentTitle}=useDoc();const shouldRender=!frontMatter.hide_title&&typeof contentTitle==='undefined';if(!shouldRender){return null;}return metadata.title;}function DocItemContent(_ref){let{children}=_ref;const syntheticTitle=useSyntheticTitle();return/*#__PURE__*/react.createElement("div",{className:(0,clsx_m/* default */.Z)(ThemeClassNames/* ThemeClassNames.docs.docMarkdown */.k.docs.docMarkdown,'markdown')},syntheticTitle&&/*#__PURE__*/react.createElement("header",null,/*#__PURE__*/react.createElement(Heading/* default */.Z,{as:"h1"},syntheticTitle)),/*#__PURE__*/react.createElement(MDXContent/* default */.Z,null,children));}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocBreadcrumbs/index.js + 4 modules
-var DocBreadcrumbs = __webpack_require__(1310);
+var DocBreadcrumbs = __webpack_require__(953);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocItem/Layout/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const Layout_styles_module = ({"docItemContainer":"docItemContainer_Djhp","docItemCol":"docItemCol_VOVn"});
@@ -310,7 +310,7 @@ const latestVersionSuggestedDoc=latestDocSuggestion??getVersionMainDoc(latestVer
 
 /***/ }),
 
-/***/ 4881:
+/***/ 2760:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -367,7 +367,7 @@ var clsx_m = __webpack_require__(6010);
 
 /***/ }),
 
-/***/ 9407:
+/***/ 4151:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -501,7 +501,7 @@ function TOCItemTree(_ref){let{toc,className,linkClassName,isChild}=_ref;if(!toc
 
 /***/ }),
 
-/***/ 3008:
+/***/ 7845:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -529,7 +529,7 @@ var Link = __webpack_require__(9960);
 
 /***/ }),
 
-/***/ 1526:
+/***/ 4049:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -545,7 +545,7 @@ var clsx_m = __webpack_require__(6010);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
 var Translate = __webpack_require__(5999);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/index.js + 1 modules
-var Tag = __webpack_require__(3008);
+var Tag = __webpack_require__(7845);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const styles_module = ({"tags":"tags_jXut","tag":"tag_QGVx"});

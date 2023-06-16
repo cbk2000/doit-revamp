@@ -1,7 +1,7 @@
 "use strict";
 (self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[9817],{
 
-/***/ 1310:
+/***/ 953:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -65,7 +65,7 @@ function BreadcrumbsItem(_ref2){let{children,active,index,addMicrodata}=_ref2;re
 
 /***/ }),
 
-/***/ 4228:
+/***/ 8830:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -117,9 +117,9 @@ var DocVersionBanner = __webpack_require__(3120);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocVersionBadge/index.js
 var DocVersionBadge = __webpack_require__(4364);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocBreadcrumbs/index.js + 4 modules
-var DocBreadcrumbs = __webpack_require__(1310);
+var DocBreadcrumbs = __webpack_require__(953);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Heading/index.js + 1 modules
-var Heading = __webpack_require__(2503);
+var Heading = __webpack_require__(1498);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocCategoryGeneratedIndexPage/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const DocCategoryGeneratedIndexPage_styles_module = ({"generatedIndexPage":"generatedIndexPage_vN6x","list":"list_eTzJ","title":"title_kItE"});
@@ -199,7 +199,7 @@ const latestVersionSuggestedDoc=latestDocSuggestion??getVersionMainDoc(latestVer
 
 /***/ }),
 
-/***/ 2503:
+/***/ 1498:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 

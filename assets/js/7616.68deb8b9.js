@@ -1,7 +1,7 @@
 "use strict";
-(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[2529],{
+(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[7616],{
 
-/***/ 9058:
+/***/ 7154:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -15,7 +15,7 @@ var react = __webpack_require__(7294);
 // EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
 var clsx_m = __webpack_require__(6010);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Layout/index.js + 66 modules
-var Layout = __webpack_require__(7961);
+var Layout = __webpack_require__(4295);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/hooks/useWindowSize.js
 var useWindowSize = __webpack_require__(7524);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
@@ -59,7 +59,7 @@ if(windowSize==='mobile'){return/*#__PURE__*/react.createElement(BlogSidebarMobi
 
 /***/ }),
 
-/***/ 390:
+/***/ 2983:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -139,7 +139,7 @@ imageURL:assets.authorsImageUrls[idx]??author.imageURL}}))));}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/utils-common/lib/index.js
 var lib = __webpack_require__(8780);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/MDXContent/index.js + 39 modules
-var MDXContent = __webpack_require__(1506);
+var MDXContent = __webpack_require__(7126);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Content/index.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
@@ -149,9 +149,9 @@ var MDXContent = __webpack_require__(1506);
  */function BlogPostItemContent(_ref){let{children,className}=_ref;const{isBlogPostPage}=(0,blogPost/* useBlogPost */.C)();return/*#__PURE__*/react.createElement("div",{// This ID is used for the feed generation to locate the main content
 id:isBlogPostPage?lib.blogPostContainerID:undefined,className:(0,clsx_m/* default */.Z)('markdown',className),itemProp:"articleBody"},/*#__PURE__*/react.createElement(MDXContent/* default */.Z,null,children));}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/EditThisPage/index.js + 2 modules
-var EditThisPage = __webpack_require__(4881);
+var EditThisPage = __webpack_require__(2760);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/index.js + 1 modules
-var TagsListInline = __webpack_require__(1526);
+var TagsListInline = __webpack_require__(4049);
 // EXTERNAL MODULE: ./node_modules/@babel/runtime/helpers/esm/extends.js
 var esm_extends = __webpack_require__(7462);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogPostItem/Footer/ReadMoreLink/index.js
@@ -183,7 +183,7 @@ function useContainerClassName(){const{isBlogPostPage}=(0,blogPost/* useBlogPost
 
 /***/ }),
 
-/***/ 4881:
+/***/ 2760:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -240,7 +240,7 @@ var clsx_m = __webpack_require__(6010);
 
 /***/ }),
 
-/***/ 3008:
+/***/ 7845:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -268,7 +268,7 @@ var Link = __webpack_require__(9960);
 
 /***/ }),
 
-/***/ 1526:
+/***/ 4049:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -284,7 +284,7 @@ var clsx_m = __webpack_require__(6010);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
 var Translate = __webpack_require__(5999);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/index.js + 1 modules
-var Tag = __webpack_require__(3008);
+var Tag = __webpack_require__(7845);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListInline/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const styles_module = ({"tags":"tags_jXut","tag":"tag_QGVx"});

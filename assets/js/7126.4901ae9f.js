@@ -1,4 +1,4 @@
-(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[1506],{
+(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[7126],{
 
 /***/ 3905:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
@@ -212,7 +212,7 @@ function createElement (type, props) {
 
 /***/ }),
 
-/***/ 2503:
+/***/ 1498:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -248,7 +248,7 @@ if(As==='h1'||!id){return/*#__PURE__*/react.createElement(As,(0,esm_extends/* de
 
 /***/ }),
 
-/***/ 1506:
+/***/ 7126:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -946,7 +946,7 @@ const InfimaClasses='alert alert--info';function Details_Details(_ref){let{...pr
 // Details theme component
 const summary=items.find(item=>/*#__PURE__*/react.isValidElement(item)&&item.props?.mdxType==='summary');const children=/*#__PURE__*/react.createElement(react.Fragment,null,items.filter(item=>item!==summary));return/*#__PURE__*/react.createElement(Details_Details,(0,esm_extends/* default */.Z)({},props,{summary:summary}),children);}
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Heading/index.js + 1 modules
-var Heading = __webpack_require__(2503);
+var Heading = __webpack_require__(1498);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/MDXComponents/Heading.js
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.

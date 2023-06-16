@@ -1,7 +1,7 @@
 "use strict";
 (self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[9514,4972],{
 
-/***/ 9963:
+/***/ 4312:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -29,7 +29,7 @@ var docsVersion = __webpack_require__(4477);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/contexts/docsSidebar.js
 var docsSidebar = __webpack_require__(1116);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Layout/index.js + 66 modules
-var Layout = __webpack_require__(7961);
+var Layout = __webpack_require__(4295);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Translate.js + 1 modules
 var Translate = __webpack_require__(5999);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/scrollUtils.js
@@ -136,7 +136,7 @@ const updateCollapsed=function(toCollapsed){if(toCollapsed===void 0){toCollapsed
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/isInternalUrl.js
 var isInternalUrl = __webpack_require__(3919);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Icon/ExternalLink/index.js + 1 modules
-var ExternalLink = __webpack_require__(9471);
+var ExternalLink = __webpack_require__(2457);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/DocSidebarItem/Link/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const Link_styles_module = ({"menuExternalLink":"menuExternalLink_NmtK"});
@@ -287,7 +287,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
 /* harmony import */ var _docusaurus_Translate__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(5999);
 /* harmony import */ var _docusaurus_theme_common__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(1944);
-/* harmony import */ var _theme_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7961);
+/* harmony import */ var _theme_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4295);
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *

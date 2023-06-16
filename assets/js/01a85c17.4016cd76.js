@@ -1,7 +1,7 @@
 "use strict";
 (self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[4013],{
 
-/***/ 9058:
+/***/ 7154:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
@@ -15,7 +15,7 @@ var react = __webpack_require__(7294);
 // EXTERNAL MODULE: ./node_modules/clsx/dist/clsx.m.js
 var clsx_m = __webpack_require__(6010);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Layout/index.js + 66 modules
-var Layout = __webpack_require__(7961);
+var Layout = __webpack_require__(4295);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/hooks/useWindowSize.js
 var useWindowSize = __webpack_require__(7524);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/core/lib/client/exports/Link.js + 1 modules
@@ -59,7 +59,7 @@ if(windowSize==='mobile'){return/*#__PURE__*/react.createElement(BlogSidebarMobi
 
 /***/ }),
 
-/***/ 1223:
+/***/ 4170:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -93,9 +93,9 @@ var metadataUtils = __webpack_require__(1944);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-common/lib/utils/ThemeClassNames.js
 var ThemeClassNames = __webpack_require__(5281);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/BlogLayout/index.js + 4 modules
-var BlogLayout = __webpack_require__(9058);
+var BlogLayout = __webpack_require__(7154);
 // EXTERNAL MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/Tag/index.js + 1 modules
-var Tag = __webpack_require__(3008);
+var Tag = __webpack_require__(7845);
 ;// CONCATENATED MODULE: ./node_modules/@docusaurus/theme-classic/lib/theme/TagsListByLetter/styles.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const styles_module = ({"tag":"tag_Nnez"});
@@ -118,7 +118,7 @@ var SearchMetadata = __webpack_require__(197);
 
 /***/ }),
 
-/***/ 3008:
+/***/ 7845:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 
