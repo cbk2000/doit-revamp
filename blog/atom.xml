@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cbk2000.github.io/doit-revamp/blog</id>
-    <title>Docubase Blog</title>
+    <title>Doit-Revamp Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cbk2000.github.io/doit-revamp/blog"/>
-    <subtitle>Docubase Blog</subtitle>
+    <subtitle>Doit-Revamp Blog</subtitle>
     <icon>https://cbk2000.github.io/doit-revamp/img/logo.jpg</icon>
     <entry>
         <title type="html"><![CDATA[Hallo!]]></title>

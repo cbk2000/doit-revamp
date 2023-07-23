@@ -11945,7 +11945,7 @@ __webpack_require__.r(__webpack_exports__);
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
-  "title": "Docubase",
+  "title": "Doit-Revamp",
   "tagline": "May The fork() Be With You",
   "favicon": "img/logo.jpg",
   "url": "https://cbk2000.github.io",
@@ -11985,7 +11985,7 @@ __webpack_require__.r(__webpack_exports__);
   "themeConfig": {
     "image": "img/logo.jpg",
     "navbar": {
-      "title": "Docubase",
+      "title": "Doit",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.jpg"
@@ -12003,7 +12003,7 @@ __webpack_require__.r(__webpack_exports__);
           "position": "left"
         },
         {
-          "href": "https://github.com/cbk2000/docubase",
+          "href": "https://github.com/cbk2000/doit-revamp",
           "label": "GitHub",
           "position": "right"
         }
