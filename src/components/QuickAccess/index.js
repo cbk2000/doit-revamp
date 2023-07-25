@@ -26,7 +26,7 @@ const Index = () => {
     // Dynamically load the markdown files
     const loadMarkdownFiles = async () => {
       const markdownFiles = await importAll(
-        require.context("/docs", true, /\.md$/)
+        require.context("/docs", true, /\.md|\.mdx$/)
       );
 
       const processedCards = await Promise.all(
