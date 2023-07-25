@@ -4280,30 +4280,6 @@ body {
 }
 
 /**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner_qdFl {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
-
-@media screen and (max-width: 996px) {
-  .heroBanner_qdFl {
-    padding: 2rem;
-  }
-}
-
-.buttons_AeoN {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
@@ -4733,6 +4709,30 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
 
 .wordWrapButtonEnabled_EoeP .wordWrapButtonIcon_Bwma {
   color: var(--ifm-color-primary);
+}
+
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner_qdFl {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner_qdFl {
+    padding: 2rem;
+  }
+}
+
+.buttons_AeoN {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /**
