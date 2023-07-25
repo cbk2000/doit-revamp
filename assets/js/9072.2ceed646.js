@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[5999],{
+(self["webpackChunkdocubase"] = self["webpackChunkdocubase"] || []).push([[9072],{
 
 /***/ 2760:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
