@@ -12014,28 +12014,28 @@ __webpack_require__.r(__webpack_exports__);
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Introduction",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/category/tutorial---basics"
+              "label": "Disclaimer",
+              "to": "/blog/welcome"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Pages",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "OS",
+              "href": "https://os.vlsm.org/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "SP",
+              "href": "https://sp.vlsm.org/"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Doit",
+              "href": "https://doit.vlsm.org/"
             }
           ]
         },
@@ -12048,7 +12048,7 @@ __webpack_require__.r(__webpack_exports__);
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/cbk2000/doit-revamp"
             }
           ]
         }
