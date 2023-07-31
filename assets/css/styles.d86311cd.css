@@ -4717,7 +4717,7 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
  */
 
 .heroBanner_qdFl {
-  padding: 4rem 0;
+  padding: 2rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -4725,7 +4725,7 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
 
 @media screen and (max-width: 996px) {
   .heroBanner_qdFl {
-    padding: 2rem;
+    padding: 1rem;
   }
 }
 
