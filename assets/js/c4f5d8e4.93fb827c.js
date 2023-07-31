@@ -17,9 +17,6 @@ var map = {
 	"./debian-guest/windows-powershell-terminal.md": 2278,
 	"./misc/google-drive-from-mac-and-windows.md": 3110,
 	"./misc/tba.md": 6972,
-	"./template/template.md": 2718,
-	"./template/template_no_image.md": 721,
-	"./tutorial-basics/congratulations.md": 7428,
 	"./utm/add-32-g-v-disk-macos.md": 6273,
 	"./utm/compile-linux-kernel-macos.md": 3996,
 	"./utm/debian-installation-macos.md": 958,
@@ -622,75 +619,6 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 2718:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "assets": () => (/* binding */ assets),
-/* harmony export */   "contentTitle": () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   "frontMatter": () => (/* binding */ frontMatter),
-/* harmony export */   "metadata": () => (/* binding */ metadata),
-/* harmony export */   "toc": () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Title Here';const metadata={"unversionedId":"template/template","id":"template/template","title":"Title Here","description":"Subtitle Here","source":"@site/docs/template/template.md","sourceDirName":"template","slug":"/template/","permalink":"/doit-revamp/docs/template/","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","next":{"title":"This card has no title","permalink":"/doit-revamp/docs/template/template_no_image"}};const assets={};const toc=[{value:'Subtitle Here',id:'subtitle-here',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent(_ref){let{components,...props}=_ref;return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"title-here"},`Title Here`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"subtitle-here"},`Subtitle Here`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{parentName:"p","src":"https://www.digitalmomblog.com/wp-content/uploads/2019/04/star-wars-memes.jpeg.webp","alt":"image"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Content Here`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre"},`Updated At: 25/06/2023
-Path: docs/template
-CoverImage: https://www.digitalmomblog.com/wp-content/uploads/2019/04/star-wars-memes.jpeg.webp
-`)));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 721:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "assets": () => (/* binding */ assets),
-/* harmony export */   "contentTitle": () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   "frontMatter": () => (/* binding */ frontMatter),
-/* harmony export */   "metadata": () => (/* binding */ metadata),
-/* harmony export */   "toc": () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='This card has no title';const metadata={"unversionedId":"template/template_no_image","id":"template/template_no_image","title":"This card has no title","description":"idk why tho","source":"@site/docs/template/template_no_image.md","sourceDirName":"template","slug":"/template/template_no_image","permalink":"/doit-revamp/docs/template/template_no_image","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Title Here","permalink":"/doit-revamp/docs/template/"},"next":{"title":"Tutorial - Basics","permalink":"/doit-revamp/docs/category/tutorial---basics"}};const assets={};const toc=[{value:'idk why tho',id:'idk-why-tho',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent(_ref){let{components,...props}=_ref;return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"this-card-has-no-title"},`This card has no title`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"idk-why-tho"},`idk why tho`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{parentName:"p","src":"https://www.digitalmomblog.com/wp-content/uploads/2019/04/star-wars-memes.jpeg.webp","alt":"image"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Content Here`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre"},`Updated At: 25/06/2023
-Path: docs/template
-
-`)));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
-/***/ 7428:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "assets": () => (/* binding */ assets),
-/* harmony export */   "contentTitle": () => (/* binding */ contentTitle),
-/* harmony export */   "default": () => (/* binding */ MDXContent),
-/* harmony export */   "frontMatter": () => (/* binding */ frontMatter),
-/* harmony export */   "metadata": () => (/* binding */ metadata),
-/* harmony export */   "toc": () => (/* binding */ toc)
-/* harmony export */ });
-/* harmony import */ var _home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(7462);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(7294);
-/* harmony import */ var _mdx_js_react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(3905);
-/* @jsxRuntime classic */ /* @jsx mdx */ /* @jsxFrag React.Fragment */const frontMatter={sidebar_position:1};const contentTitle='Hello There!';const metadata={"unversionedId":"tutorial-basics/congratulations","id":"tutorial-basics/congratulations","title":"Hello There!","description":"This is only the start","source":"@site/docs/tutorial-basics/congratulations.md","sourceDirName":"tutorial-basics","slug":"/tutorial-basics/congratulations","permalink":"/doit-revamp/docs/tutorial-basics/congratulations","draft":false,"tags":[],"version":"current","sidebarPosition":1,"frontMatter":{"sidebar_position":1},"sidebar":"tutorialSidebar","previous":{"title":"Tutorial - Basics","permalink":"/doit-revamp/docs/category/tutorial---basics"},"next":{"title":"Virtual Box","permalink":"/doit-revamp/docs/category/virtual-box"}};const assets={};const toc=[{value:'This is only the start',id:'this-is-only-the-start',level:2}];const layoutProps={toc};const MDXLayout="wrapper";function MDXContent(_ref){let{components,...props}=_ref;return (0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)(MDXLayout,(0,_home_runner_work_doit_revamp_doit_revamp_node_modules_babel_runtime_helpers_esm_extends_js__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z)({},layoutProps,props,{components:components,mdxType:"MDXLayout"}),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h1",{"id":"hello-there"},`Hello There!`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"this-is-only-the-start"},`This is only the start`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"image",src:(__webpack_require__(227)/* ["default"] */ .Z),width:"1080",height:"823"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`Debian 12, the newest release of the unix OS Debian. Also known as the "Bookworm", creates more relevant features that follows the up to date necessity`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre"},`Updated At: 17/06/2023
-Path: docs/tutorial-basics/congratulations
-CoverImage: img/legacy/debM1-000-1.jpg
-`)));};MDXContent.isMDXComponent=true;
-
-/***/ }),
-
 /***/ 6273:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
@@ -1172,7 +1100,7 @@ as it can help make the downloading process more efficient and reliable.
 Additionally, suppose you have a slower internet connection or experience frequent interruptions while downloading.
 In that case, a download manager can help improve your download speed and stability.`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Download from `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("a",{parentName:"li","href":"https://www.freedownloadmanager.org/"},`https://www.freedownloadmanager.org/`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`Or, install a plug-in on your browser.`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"intel-vmx-virtualization-technology"},`Intel (VMX) Virtualization Technology`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`You may need to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`ENABLE`),`
 VMX (Virtual Machine Extensions).  Check your PC firmware configuration manual on how to do this.
-E.g.,`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`VMX ENABLED:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"debVBOX-081-VMX-enable",src:(__webpack_require__(34)/* ["default"] */ .Z),width:"1080",height:"190"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`VMX DISABLED:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"debVBOX-080-VMX-disable",src:(__webpack_require__(4424)/* ["default"] */ .Z),width:"1080",height:"181"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hyper-v"},`Hyper-V`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`You may need to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`DISABLE`),`
+E.g.,`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`VMX ENABLED:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"debVBOX-081-VMX-enable",src:(__webpack_require__(34)/* ["default"] */ .Z),width:"1080",height:"190"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("ul",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("li",{parentName:"ul"},`VMX DISABLED:`)),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("img",{alt:"debVBOX-080-VMX-disable",src:(__webpack_require__(7428)/* ["default"] */ .Z),width:"1080",height:"181"})),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("h2",{"id":"hyper-v"},`Hyper-V`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("p",null,`You may need to `,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("strong",{parentName:"p"},`DISABLE`),`
 Hyper-V on Microsoft Windows to install VirtualBox.
 You can do this by running the following command in Admin PowerShell:`),(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("pre",null,(0,_mdx_js_react__WEBPACK_IMPORTED_MODULE_1__/* .mdx */ .kt)("code",{parentName:"pre"},`dism.exe /Online /Disable-Feature:Microsoft-Hyper-V
 
@@ -2806,7 +2734,7 @@ var CodeBlock = __webpack_require__(9916);
 
 /***/ }),
 
-/***/ 4424:
+/***/ 7428:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
