@@ -11948,7 +11948,7 @@ __webpack_require__.r(__webpack_exports__);
   "title": "Doit-Revamp",
   "tagline": "May The fork() Be With You",
   "favicon": "img/logo.jpg",
-  "url": "https://cbk2000.github.io",
+  "url": "https://dong.vlsm.org",
   "baseUrl": "/",
   "organizationName": "cbk2000",
   "projectName": "doit-revamp",
